@@ -1,1 +1,1 @@
-# mini-curso-github
+# alterei a funcao do readme.
