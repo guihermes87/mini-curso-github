@@ -9,5 +9,7 @@ Aperta I para inserir uma mensagem de commit.
 ESC
 :wq
 
+git push para subir na Web.
+
 
 
