@@ -11,5 +11,14 @@ ESC
 
 git push para subir na Web.
 
+git merge para adicionar o arquivo em outra branch
+
+Git Flow para organizar o fluxo de trabalho com branches.
+
+para navegar entre as branches, use o comando git checkout nome-da-branch
+git checkout -b parouimpar
+
+
+
 
 
